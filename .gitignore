@@ -1,0 +1,26 @@
+# .gitignore
+
+# Environments
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Databases
+*.db
+*.sqlite3
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Testing and Coverage
+.pytest_cache/
+htmlcov/
+.coverage

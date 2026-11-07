@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+sqlalchemy
+langgraph
+langchain-core
+langchain-openai
+pytest
